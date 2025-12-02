@@ -1,0 +1,33 @@
+Team,pred_final_win_pct,pred_wins,pred_losses
+Denver Broncos,0.614,10,7
+New England Patriots,0.69,12,5
+Indianapolis Colts,0.771,13,4
+Buffalo Bills,0.68,12,5
+Pittsburgh Steelers,0.565,10,7
+Baltimore Ravens,0.557,9,8
+Cincinnati Bengals,0.337,6,11
+Cleveland Browns,0.284,5,12
+Jacksonville Jaguars,0.531,9,8
+Houston Texans,0.723,12,5
+Tennessee Titans,0.118,2,15
+Los Angeles Chargers,0.552,9,8
+Kansas City Chiefs,0.705,12,5
+Las Vegas Raiders,0.21,4,13
+Miami Dolphins,0.35,6,11
+New York Jets,0.284,5,12
+Philadelphia Eagles,0.593,10,7
+Dallas Cowboys,0.547,9,8
+Washington Commanders,0.289,5,12
+New York Giants,0.341,6,11
+Chicago Bears,0.5,8,9
+Green Bay Packers,0.664,11,6
+Detroit Lions,0.718,12,5
+Minnesota Vikings,0.498,8,9
+Tampa Bay Buccaneers,0.561,10,7
+Carolina Panthers,0.382,6,11
+Atlanta Falcons,0.428,7,10
+New Orleans Saints,0.205,3,14
+Los Angeles Rams,0.75,13,4
+Seattle Seahawks,0.754,13,4
+San Francisco 49ers,0.495,8,9
+Arizona Cardinals,0.393,7,10
