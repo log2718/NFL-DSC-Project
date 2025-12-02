@@ -9,7 +9,7 @@ from xgboost import XGBClassifier
 
 
 #load csv data
-nfl_data = pd.read_csv('merged_nfl_data.csv')
+nfl_data = pd.read_csv('Old Data/merged_nfl_data.csv')
 sb_data = pd.read_csv('superbowl_teams.csv')
 print("NFL Data:", nfl_data.shape)
 print("SB Data :", sb_data.shape)
